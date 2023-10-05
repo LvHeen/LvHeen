@@ -10,9 +10,9 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LvHeen&bg_color=0d1117&color=7a04eb&line=f76aff&point=6ff6fd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align=center style=display: inline_block>
-  <img aligt="center" alt="HelenaCSS" height="40" width="50" src="https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor">
-  <img aligt="center" alt="HelenaCSS" height="40" width="50"  src="https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor">
-  <img aligt="center" alt="HelenaCSS" height="40" width="50" src="https://icongr.am/devicon/python-original.svg?size=50&color=currentColor">
+  <img aligt="center" alt="HelenaCSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor">
+  <img aligt="center" alt="HelenaCSS" height="30" width="40"  src="https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor">
+  <img aligt="center" alt="HelenaCSS" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=50&color=currentColor">
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a04eb&height=120&section=footer"/>
