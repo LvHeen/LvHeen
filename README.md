@@ -16,7 +16,3 @@
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a04eb&height=120&section=footer"/>
-
-![snake animation](https://github.com/LvHeen/LvHeen/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=LvHeen&repo=LvHeen&theme=react)](https://github.com/LvHeen/LvHeen)
